@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @contactatfp
-- 👀 I’m working on becoming a software dev
-- 🌱 I’m currently studying Computer Science (Machine Learning, AI, Big Data Processing, Crypto & Blockchain)
-- 💞️ I’m currently working on a project to deploy to the iOS app store.
+👋 Hi, I’m @contactatfp
+
+👨‍💻 I'm an experienced software developer specializing in Machine Learning, AI, Big Data Processing, Crypto & Blockchain.
+
+📱 I've successfully launched apps on the iOS App Store, with several exciting new apps currently in development.
+
 
 
 <!---
